@@ -1,0 +1,6 @@
+framework module Pods_Lottie_Animation__Test_ {
+  umbrella header "Pods-Lottie Animation (Test)-umbrella.h"
+
+  export *
+  module * { export * }
+}
